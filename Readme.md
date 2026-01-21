@@ -1,3 +1,10 @@
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-Active-success)](#)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/sanchit-mathr/aura-voice-assistant?style=social)](https://github.com/sanchit-mathr/aura-voice-assistant/stargazers)
+
+
+
 # 🎙️ Aura – Python Voice Assistant (SOC-Oriented Project)
 
 Aura is a modular Python-based voice assistant designed to perform everyday tasks using speech recognition and text-to-speech.  
